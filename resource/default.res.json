@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,music_mp3,egret_icon2_png,bg2_jpg,music2_mp3,rl2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/rl.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "music_mp3",
+			"type": "sound",
+			"url": "assets/music.mp3"
+		},
+		{
+			"name": "rl_png",
+			"type": "image",
+			"url": "assets/rl.png"
+		},
+		{
+			"name": "egret_icon2_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "music2_mp3",
+			"type": "sound",
+			"url": "assets/music.mp3"
+		},
+		{
+			"name": "rl2_png",
+			"type": "image",
+			"url": "assets/rl.png"
+		}
+	]
+}
